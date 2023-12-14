@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyRevaIntent</string>
+    <string name="move_activity">Pindah Aktiviti</string>
+    <string name="move_with_data">Pindah dengan Data</string>
+    <string name="dial_number">Nomor Telepon</string>
+    <string name="move_with_result">Pindah Aktiviti dengan Hasil</string>
+    <string name="result_from_activity">Hasil dari Aktiviti</string>
+    <string name="choose_color">Pilih Warna yang Kamu Suka</string>
+    <string name="_blue">Apel</string>
+    <string name="_red">Jambu</string>
+    <string name="_orange">Mangga</string>
+    <string name="choose">Pilihan Buahmu</string>
+    <string name="data_received">Data yang Diterima</string>
+    <string name="this_is_moveactivity">Ini Moveactivity</string>
+</resources>
